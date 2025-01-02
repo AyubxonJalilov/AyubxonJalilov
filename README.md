@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyubxonJalilov
 - 👀 I’m interested in Mechatronics and robotics engineering 
-- 🌱 I’m currently learning : C , Python 
+- 🌱 I’m currently learning : C , Python , FullStack Development
 - 💞️ I’m looking to collaborate on : Learning and developing programming skills 
 - 📫 How to reach me : @t.me/AyubxonJalilov2001 , jalilovayubxon011@gmail.com.
 - 🙂 Personality : Ambivert 
